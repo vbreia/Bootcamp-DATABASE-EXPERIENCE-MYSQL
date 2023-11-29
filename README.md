@@ -3,6 +3,11 @@ Repositório com os modelos desenvolvido no Bootcamp Database Experience da [DIO
 Bootcamp ministrado por: [Juliana Mascarenhas](https://github.com/julianazanelatto)
 
  <br />
+ <div align="center">
+
+<a href="https://web.dio.me/track/database-experience"><img src="https://hermes.dio.me/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png" width="130"/></a>
+
+</div>
 <a href="https://www.dio.me/certificate/E34878E4"><img src="https://hermes.digitalinnovation.one/certificates/cover/E34878E4.jpg" /></a>
 
 ## 🛠️ Tecnologias aprendidas
