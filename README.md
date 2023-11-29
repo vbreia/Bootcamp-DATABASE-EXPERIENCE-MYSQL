@@ -1,4 +1,4 @@
-# Desafio de Projetos Database Experience
+# Desafio de Projetos Database Experience 🐬
 Repositório com os modelos desenvolvido no Bootcamp Database Experience da [DIO.me](https://dio.me) para a entrega dos Desafios e Projeto.
 Bootcamp ministrado por: [Juliana Mascarenhas](https://github.com/julianazanelatto)
 
